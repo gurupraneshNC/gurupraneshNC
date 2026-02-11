@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ GURU PRANESH
+# ⚡ GURUPRANESH
 
 ```bash
 > Offensive Security Engineer
