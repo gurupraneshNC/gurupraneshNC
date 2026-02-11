@@ -32,9 +32,13 @@
 
 ## 📊 GitHub Stats  
 
-![Gurupranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurupraneshNC&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-ochre-nine-vho5tgz2lh.vercel.app/api?username=gurupraneshNC&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+  
+  <img src="https://github-readme-stats-ochre-nine-vho5tgz2lh.vercel.app/api/top-langs/?username=gurupraneshNC&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurupraneshNC&layout=compact&theme=tokyonight)
+
 
 ---
 
