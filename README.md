@@ -58,9 +58,9 @@ Building. Breaking. Hardening.
 ## 📊 SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats-ochre-nine-vho5tgz2lh.vercel.app/api?username=gurupraneshNC&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats-ochre-nine-vho5tgz2lh.vercel.app/api?username=gurupranesh006&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" height="170"/>
   
-  <img src="https://github-readme-stats-ochre-nine-vho5tgz2lh.vercel.app/api/top-langs/?username=gurupraneshNC&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats-ochre-nine-vho5tgz2lh.vercel.app/api/top-langs/?username=gurupranesh006&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=ffffff" height="170"/>
 </p>
 
 ---
