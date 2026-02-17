@@ -78,9 +78,9 @@ Building. Breaking. Hardening.
 <div align="center">
 
 ```bash
-root@nullCorvus:~# exploit
-root@nullCorvus:~# escalate
-root@nullCorvus:~# dominate
+root@velaryx:~# exploit
+root@velaryx:~# escalate
+root@velaryx:~# dominate
 ```
 
 </div>
